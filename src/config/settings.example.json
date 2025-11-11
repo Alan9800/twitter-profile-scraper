@@ -1,0 +1,8 @@
+{
+  "twitter_profile_urls": [
+    "https://twitter.com/exampleuser1",
+    "https://twitter.com/exampleuser2"
+  ],
+  "scrape_limit": 100,
+  "output_format": "json"
+}
