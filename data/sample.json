@@ -1,0 +1,14 @@
+[
+  {
+    "screen_name": "exampleuser1",
+    "followers_count": 1500,
+    "bio": "This is a sample bio",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1234567890/exampleuser1.jpg"
+  },
+  {
+    "screen_name": "exampleuser2",
+    "followers_count": 2000,
+    "bio": "Another sample bio",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1234567890/exampleuser2.jpg"
+  }
+]
