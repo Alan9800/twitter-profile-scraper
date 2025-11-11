@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+twitter-profile-scraper/.keep
+textThis folder contains input and output data for the scraper.
